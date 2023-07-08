@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+.result {
+  font-size: 45px;
+}
+
+.bg {
+  position: absolute;
+  width: 100vw;
+  height: 100%;
+  z-index: -1;
+  background: url(/public/dog1.webp) center;
+  opacity: 0.1;
+}
+
+
+.btn{
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: #f9a9a9;
+}
+.btn:active{
+  background-color: #85fd9b;
+}
+
+.fade-enter {
+  transform: scale(0);
+}
+
+.fade-enter-active {
+  transform: scale(1);
+  transition: all 500ms ease 0s;
+}
+
+.fade-exit {
+  transform: scale(1);
+  position: absolute;
+  visibility: hidden;
+}
+
+.fade-exit-active {
+  transform: scale(0);
+  transition: all 500ms ease 0s;
+}

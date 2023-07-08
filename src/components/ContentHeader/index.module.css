@@ -1,0 +1,27 @@
+.title {
+	font-size: 32px;
+	line-height: 1.5;
+	font-weight: 800;
+	margin-bottom: 20px;
+
+}
+
+.buttonBack {
+	color: #000000;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 5px 10px;
+	border-radius: 5px;
+	border: 1px solid black;
+	text-decoration: none;
+}
+.buttonBack:hover{
+	background-color: #f9a9a9;
+}
+
+.buttonBack:active{
+	background-color: #85fd9b;
+}
+
+
