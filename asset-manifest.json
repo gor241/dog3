@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/dog3/static/css/main.d429ab3d.css",
+    "main.js": "/dog3/static/js/main.584a5c6f.js",
+    "static/media/404.gif": "/dog3/static/media/404.79f3b6c9b38b14563169.gif",
+    "static/media/dog.jpg": "/dog3/static/media/dog.af34514c185181852bdf.jpg",
+    "static/media/bg.jpg": "/dog3/static/media/bg.b0622f96e3a9ffdd590a.jpg",
+    "static/media/dog.webp": "/dog3/static/media/dog.4f3e69cfcc93ee0459cf.webp",
+    "static/media/dog1.webp": "/dog3/static/media/dog1.0bca11f53268854d4c97.webp",
+    "static/media/fon1.png": "/dog3/static/media/fon1.d925e94dde98a44fac69.png",
+    "static/media/fon.png": "/dog3/static/media/fon.ba678e32e465a9bf0ec0.png",
+    "static/media/logo.svg": "/dog3/static/media/logo.4f9d699de55eb25e196ecc4c87a15a5e.svg",
+    "static/media/quality.svg": "/dog3/static/media/quality.8eb6560a188790582a8aaddc99e116ea.svg",
+    "static/media/instagram.svg": "/dog3/static/media/instagram.54cbf40d1b69370b6a2ec029eefc269c.svg",
+    "static/media/vk.svg": "/dog3/static/media/vk.5a6b12bf142f67e2138c1e6c69952975.svg",
+    "static/media/viber.svg": "/dog3/static/media/viber.b4234cd18a8ffefb8ebb172506996cea.svg",
+    "static/media/whatsapp.svg": "/dog3/static/media/whatsapp.51cbd71440eaa90946070b8848c12129.svg",
+    "static/media/save.svg": "/dog3/static/media/save.4ecce3f76a425b9cc334007a294e0108.svg",
+    "static/media/truck.svg": "/dog3/static/media/truck.ea6acb9f2b133040e9f295fbb9f2a3ab.svg",
+    "static/media/ic-close-input.svg": "/dog3/static/media/ic-close-input.54db44869b83261dae0b721cf5826a4b.svg",
+    "static/media/comment-regular.svg": "/dog3/static/media/comment-regular.b919257681a5d3604f3b46b4b1174d98.svg",
+    "static/media/favorites.svg": "/dog3/static/media/favorites.b0f01e21f130b247ffbb029a834e4ef0.svg",
+    "static/media/star.svg": "/dog3/static/media/star.68de896b5b44a0fa1478b96d2793992a.svg",
+    "index.html": "/dog3/index.html",
+    "static/media/ic-search.svg": "/dog3/static/media/ic-search.9da1e3f9e0d0d0b38f3c1ac2041e5f49.svg",
+    "static/media/telegram.svg": "/dog3/static/media/telegram.95a5ca8a1ae0a13c18da2bca3f249bf5.svg",
+    "main.d429ab3d.css.map": "/dog3/static/css/main.d429ab3d.css.map",
+    "main.584a5c6f.js.map": "/dog3/static/js/main.584a5c6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d429ab3d.css",
+    "static/js/main.584a5c6f.js"
+  ]
+}
